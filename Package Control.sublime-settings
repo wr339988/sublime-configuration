@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeREPL",
+		"SublimeTmpl"
+	]
+}

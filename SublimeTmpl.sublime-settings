@@ -1,0 +1,9 @@
+{
+            "disable_keymap_actions": false, // "all"; "html,css"
+            "date_format" : "%Y-%m-%d %H:%M:%S",
+            "attr": {
+                "author": "Jipeng Huang",
+                "email": "jphuang94@pku.edu.cn",
+                "link": "http://blog.csdn.net/wr339988/"
+            }
+        }
